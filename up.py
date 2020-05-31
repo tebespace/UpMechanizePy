@@ -2,7 +2,7 @@ import mechanize
 
 banner = '''
 ----------------------------------------\
- tebespace wass here!          \
+ upsError wass here!          \
  uploading image                     \
 -----------------------------------------------\
 '''
